@@ -1,0 +1,19 @@
+/* src/components/MainContent/MainContent.css */
+
+.main-content {
+    background-color: #ecf0f1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    color: black;
+}
+
+.main-content header {
+    margin-bottom: 20px;
+}
+
+.main-content .content {
+    flex: 1;
+    /* Allows the content area to expand */
+    /* Additional styles for dashboard widgets can go here */
+}
