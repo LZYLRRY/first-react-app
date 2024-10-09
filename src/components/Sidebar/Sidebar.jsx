@@ -5,6 +5,9 @@ import './Sidebar.css';
 function Sidebar() {
     return (
         <aside className="sidebar">
+            {/* Logo at the top */}
+            <img src="/eon.webp" alt="Eon Logo" className="logo" />
+
             <nav>
                 <ul>
                     <li><a href="#dashboard">Dashboard</a></li>

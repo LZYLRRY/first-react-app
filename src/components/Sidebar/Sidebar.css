@@ -8,6 +8,15 @@
     padding: 20px;
 }
 
+.logo {
+    width: 100%;
+    /* Adjust the width as necessary */
+    max-width: 150px;
+    /* Set a maximum width for the logo */
+    margin-bottom: 20px;
+    /* Add some space below the logo */
+}
+
 .sidebar nav ul {
     list-style: none;
     padding: 0;
